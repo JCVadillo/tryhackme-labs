@@ -1,6 +1,6 @@
 # 🔐 01 – John the Ripper – Cracking Basic Hashes
 *TryHackMe – John the Ripper: The Basics*
-*(Task 4 – Cracking Basic Hashes)*
+*(Task – Cracking Basic Hashes)*
 
 ---
 
