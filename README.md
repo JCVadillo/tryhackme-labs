@@ -16,7 +16,7 @@ Labs may cover a broad range of topics including — but not limited to — pass
 
 | # | Lab Name | Category | Tools Used | Status |
 |---|---|---|---|---|
-| 01 | [John the Ripper – Cracking Basic Hashes](./labs/01-john-the-ripper/) | Hash Cracking | Kali Linux, John the Ripper | ✅ Complete |
+| 01 | [John the Ripper – Cracking Basic Hashes](./labs/john-the-ripper/) | Hash Cracking | Kali Linux, John the Ripper | ✅ Complete |
 
 ---
 
