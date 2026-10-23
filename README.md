@@ -17,7 +17,7 @@ Labs may cover a broad range of topics including — but not limited to — pass
 | # | Lab Name | Category | Tools Used | Status |
 |---|---|---|---|---|
 | 01 | [John the Ripper – Cracking Basic Hashes](./labs/john-the-ripper/01-john-the-ripper-cracking-basic-hashes.md) | Hash Cracking | Kali Linux, John the Ripper | ✅ Complete |
-| 02 | [John the Ripper – Cracking Windows Authentication Hashes](./labs/john-the-ripper/02-john-the-ripper-cracking-windows-ntlm-hashes.md) | Hash Cracking | Kali Linux, John the Ripper | ✅ Complete |
+| 02 | [John the Ripper – Cracking Windows Authentication Hashes](./labs/john-the-ripper/02-John-the-Ripper-Cracking-Windows-Authentication-Hashes-(NTLM).md) | Hash Cracking | Kali Linux, John the Ripper | ✅ Complete |
 
 ---
 
